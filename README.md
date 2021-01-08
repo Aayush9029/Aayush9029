@@ -1,10 +1,10 @@
 #### Hello World, I am Aayush.
 
-My [Portfolio](https://aayush9029.github.io/FinalWebpage/)
-
-My [App Store Page](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
-
-My  [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
+> My [Portfolio](https://aayush9029.github.io/FinalWebpage/)
+>
+> My [App Store Page](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
+>
+> My  [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
 
 ---
 
