@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Hello World, I am Aayush.
 
-<!--
-**Aayush9029/Aayush9029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my [portfolio] (https://aayush9029.github.io/FinalWebpage/)
 
-Here are some ideas to get you started:
+This is my [Apple App Store Page] (https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Currently I'm working on
+- [Siro](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) | 📲
+- [I'll Do it Later](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159) | 💻 📲
+
+
+#### Would love for you to check out
+- [Rifi](https://github.com/Aayush9029/Rifi) | 💻 📲 🕸
+- [Climate Change Awareness Site](https://aayush9029.github.io/climateChange/) | 🕸
+
