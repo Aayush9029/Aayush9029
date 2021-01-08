@@ -9,8 +9,8 @@
 ---
 
 #### Currently I'm working on
-- [Siro](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) | 📲
-- [I'll Do it Later](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159) | 💻 📲
+- [Siro](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) | 📲 
+- [I'll Do it Later](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159) | 💻 📲 
 
 
 #### Would love for you to check out
