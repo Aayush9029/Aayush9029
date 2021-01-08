@@ -1,8 +1,8 @@
 #### Hello World, I am Aayush.
 
-This is my [portfolio] (https://aayush9029.github.io/FinalWebpage/)
+This is my [portfolio](https://aayush9029.github.io/FinalWebpage/)
 
-This is my [Apple App Store Page] (https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
+This is my [Apple App Store Page](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
 
 ---
 
