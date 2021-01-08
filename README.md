@@ -23,6 +23,10 @@
 
 [![Siro](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/siro.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Scanr](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/btscan.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Dinfo](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/dinfo.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![I'll Do It Later](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/idl.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239)
 
+```python3
+Click To Open App Store Page
+```
+
 ----
 
 #### Other Fun Stuff
