@@ -32,4 +32,6 @@ Click To Open App Store Page
 #### Other Fun Stuff
 [PiP Packages](https://pypi.org/project/morse3/)
 
-`Discord aahhyoushh#2845`
+```js
+Discord aahhyoushh#2845
+```
