@@ -21,7 +21,7 @@
 
 #### Here are some of my iOS / MacOS Apps
 
-[![Siro](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/siro.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Scanr](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/btscan.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Dinfo](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/dinfo.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![I'll Do It Later](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/idl.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239)
+[![Siro](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/siro.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Scanr](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/btscan.png)](https://apps.apple.com/ca/app/scanr-bluetooth-scanner/id1546690342) [![Dinfo](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/dinfo.png)](https://apps.apple.com/ca/app/dinfo-remote-system-monitor/id1532440922) [![I'll Do It Later](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/idl.png)](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159)
 
 ```python3
 Click To Open App Store Page
