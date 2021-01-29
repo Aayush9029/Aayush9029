@@ -29,11 +29,32 @@ Click To Open App Store Page
 
 ----
 
-#### Other Fun Stuff
-[PiP Packages](https://pypi.org/project/morse3/)
 
-[a29_ed25519.pub](https://gist.githubusercontent.com/Aayush9029/8ded88f3419c5328fb7b7ea189504885/raw/f5f96f9f69684061b83e7df13ee311e8ad79ee8f/a29_ed25519.pub)
+<details>
+  <summary>Quick Links</summary>
+  <details>
+  <summary>pypi</summary>
+
+  [PiP Packages](https://pypi.org/project/morse3/)
+  </details>
+
+  <details>
+  <summary>MY Public Key</summary>
+
+  [a29_ed25519.pub](https://gist.githubusercontent.com/Aayush9029/8ded88f3419c5328fb7b7ea189504885/raw/f5f96f9f69684061b83e7df13ee311e8ad79ee8f/a29_ed25519.pub)
+
+  </details>
+  
+  <summary>Discord Account</summary>
 
 ```js
 Discord aahhyoushh#2845
 ```
+
+  </details>
+</details>
+
+
+
+
+
