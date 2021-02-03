@@ -1,4 +1,9 @@
-#### Hello World, I am Aayush.
+```bash
+┌──()-[~]
+└─$ echo "Hello World" && whoami
+Hello World
+Aayush Pokharel
+```
 
 > My [Portfolio](https://aayush9029.github.io/FinalWebpage/)
 >
