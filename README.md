@@ -14,19 +14,20 @@ Aayush Pokharel
 ---
 
 #### Currently I'm working on
-- [Siro](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) | 📲 
+- [Rifi](https://aayush9029.github.io/RifiApp/) |  💻 📲 
 - [I'll Do it Later](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159) | 💻 📲 
 
 
 #### Would love for you to check out
-- [Rifi](https://github.com/Aayush9029/Rifi) | 💻 📲 🕸
 - [Climate Change Awareness Site](https://aayush9029.github.io/climateChange/) | 🕸
+- [Siro](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) | 📲 
 
 ---
 
 #### Here are some of my iOS / MacOS Apps
 
-[![Siro](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/siro.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Scanr](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/btscan.png)](https://apps.apple.com/ca/app/scanr-bluetooth-scanner/id1546690342) [![Dinfo](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/dinfo.png)](https://apps.apple.com/ca/app/dinfo-remote-system-monitor/id1532440922) [![I'll Do It Later](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/idl.png)](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159)
+
+[![RiFi](https://user-images.githubusercontent.com/43297314/118573218-17d47b80-b750-11eb-8b41-a2bc0c5124f4.png)](https://aayush9029.github.io/RifiApp/) [![Siro](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/siro.png)](https://apps.apple.com/ca/app/siro-laugh-a-little/id1546323239) [![Scanr](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/btscan.png)](https://apps.apple.com/ca/app/scanr-bluetooth-scanner/id1546690342) [![Dinfo](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/dinfo.png)](https://apps.apple.com/ca/app/dinfo-remote-system-monitor/id1532440922) [![I'll Do It Later](https://raw.githubusercontent.com/Aayush9029/Aayush9029/main/img/idl.png)](https://apps.apple.com/ca/app/ill-do-it-later/id1540174159)
 
 ```python3
 Click To Open App Store Page
