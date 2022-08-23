@@ -61,7 +61,7 @@ Click To Open App Store Page
   <summary>Discord Account</summary>
 
 ```js
-Discord aahhyoushh#2845
+Discord nerdaware#2845
 ```
 
   </details>
