@@ -1,5 +1,8 @@
 ## Hello!
-My Name is Aayush! I love programming. Here's my web [Portfolio](https://aayush9029.github.io/FinalWebpage/), [App Store Page](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924) and my [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
+My Name is Aayush! I loooveee making random things.
+- Here's my web [Portfolio](https://aayush9029.github.io/FinalWebpage/)
+- [App Store Page](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924)
+- [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
 
 #### Currently I'm working on
 [YorkU - App for my University](https://apps.apple.com/us/app/york-uni/id1602993186) and [Native Twitch - For Entertaintment](https://github.com/Aayush9029/Native-Twitch)
