@@ -23,8 +23,8 @@ My Name is Aayush! I loooveee making random things.
 
   <details>
   <summary>MY Public Key 🔐</summary>
+    ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIZ6AuMjKbJjHKh3gcT4TAjBwXa4RzoehwOv+gmi2uSw Aayush.P
 
-  [a29_ed25519.pub](https://gist.githubusercontent.com/Aayush9029/8ded88f3419c5328fb7b7ea189504885/raw/8f5aef483315c0475bbf2f7f7849c11069039cef/a29_ed25519.pub)
 
   </details>
   
