@@ -24,7 +24,7 @@
 ### Quick Links
 🌐 Web Stuff&nbsp;: [Web Projects](https://aayush-art.vercel.app), [Portfolio v2](https://aayush9029.github.io/FinalWebpage/)
 
-📦 Published&nbsp;: [App Store](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924), [PyPi](https://pypi.org/user/Aayush9029/)
+📦 Published&nbsp;: [App Store](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924), [PyPi](https://pypi.org/user/Aayush9029/), [Raycast](https://www.raycast.com/Aayush9029)
 
 ✨ Socials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
 
