@@ -17,7 +17,7 @@
 
 ### My stats
 <p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=aayush9029&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aayush9029&theme=onedark&show_icons=true&hide_rank=false&custom_title=Stats&count_private=true&hide_border=true&hide=issues,contribs&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush9029&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117&exclude_repo=FinalWebpage,KenobiSite,IDL-SITE,p2p-tictactoe,PhoneControl,YorkU-Site,Vrcalibrate,WebSnippets,Chatapp101,climateChange,Decenchat,Khula-Site,Yorkapp,aayush9029.github.io,Project-SandBox,DownBad-Site,RifiApp,ReadrSite,Emotes-Site,PhoneML-Site,websnip2,easypost" alt="Top Langs">
 </a></p>
 
