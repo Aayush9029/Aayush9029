@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=swift,svelte,git,cpp,ts,go,firebase,py,linux,java,mysql,bash,electron" alt="Skills icon set">
+<img src="https://skillicons.dev/icons?i=swift,svelte,git,cpp,ts,go,py,linux,java,mysql,bash" alt="Skills icon set">
 
 
   </a>
