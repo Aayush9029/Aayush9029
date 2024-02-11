@@ -22,18 +22,9 @@
 </a></p>
 
 ### Quick Links
-🌐 Web Stuff&nbsp;: [Web Projects](https://aayush-art.vercel.app), [Portfolio v2](https://aayush9029.github.io/FinalWebpage/)
+🌐 Web Stuff&nbsp;: [Website](https://aayush.art)
 
-📦 Published&nbsp;: [App Store](https://apps.apple.com/ca/developer/aayush-pokharel/id1532440924), [PyPi](https://pypi.org/user/Aayush9029/), [Raycast](https://www.raycast.com/Aayush9029)
-
-✨ Socials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [LinkedIn](https://www.linkedin.com/in/aayush-p-616b6b16a/)
-
-
-### Currently I'm working on
-[YorkU - App for my University](https://apps.apple.com/us/app/york-uni/id1602993186)
-
-[Native Twitch - For Entertaintment](https://github.com/Aayush9029/Native-Twitch)
-
+📦 Published&nbsp;: [Apps](https://apple.aayush.art), [PyPi](https://pypi.org/user/Aayush9029/), [Raycast](https://www.raycast.com/Aayush9029)
 
 ### Checkout some of my iOS apps!
 
@@ -48,8 +39,6 @@
 <a href="https://apps.apple.com/qa/app/project-sandbox/id1621743333"><img src="https://user-images.githubusercontent.com/43297314/226301665-c72a9903-215a-492f-9192-80c36aa58c27.png" width="48px"></a>
 
 </p>
-
-
   <details>
   <summary>Public Key</summary>
    
