@@ -1,7 +1,7 @@
 <div align='center'>
   
 # 👋 Hello! I'm Aayush
- I love programming and making things, I make native apps for Apple Platform, Full stack Websites, Automations and Extensions.
+ I love programming and making things, I write swift sometimes.
 
   </div>
 
