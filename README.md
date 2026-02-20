@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://aayush.art"><img src="https://img.shields.io/badge/website-aayush.art-171717?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://apple.aayush.art"><img src="https://img.shields.io/badge/apps-App%20Store-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="Apps"></a>
-  <a href="https://pypi.org/user/Aayush9029/"><img src="https://img.shields.io/badge/packages-PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPi"></a>
-  <a href="https://www.raycast.com/Aayush9029"><img src="https://img.shields.io/badge/extensions-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white" alt="Raycast"></a>
+  <a href="https://aayush.art"><img src="https://img.shields.io/badge/website-171717?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://apple.aayush.art"><img src="https://img.shields.io/badge/apps-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="Apps"></a>
+  <a href="https://pypi.org/user/Aayush9029/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPi"></a>
+  <a href="https://www.raycast.com/Aayush9029"><img src="https://img.shields.io/badge/raycast-FF6363?style=flat-square&logo=raycast&logoColor=white" alt="Raycast"></a>
 </p>
 
 <p align="center">
