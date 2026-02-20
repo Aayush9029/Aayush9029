@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://aayush.art"><img src="https://img.shields.io/badge/Website-171717?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://apple.aayush.art"><img src="https://img.shields.io/badge/Apps-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="Apps"></a>
+  <a href="https://apps.aayush.art"><img src="https://img.shields.io/badge/Apps-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="Apps"></a>
   <a href="https://pypi.org/user/Aayush9029/"><img src="https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPi"></a>
   <a href="https://www.raycast.com/Aayush9029"><img src="https://img.shields.io/badge/Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white" alt="Raycast"></a>
 </p>
