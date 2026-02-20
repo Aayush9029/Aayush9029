@@ -5,11 +5,11 @@
 
 </div>
 
-### I work with
+### Things I love right now
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=swift,git,ts,py,java,bash" alt="Skills icon set">
+    <img src="https://skillicons.dev/icons?i=swift,git,ts,py,bash" alt="Skills icon set">
   </a>
 </p>
 
