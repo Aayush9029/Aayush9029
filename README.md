@@ -10,7 +10,7 @@ Currently making OSS tools for Linux machines.
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=swift,git,ts,py,bash,arch" alt="Skills icon set">
+    <img src="https://skillicons.dev/icons?i=arch,swift,git,ts,py,bash" alt="Skills icon set">
   </a>
 </p>
 
