@@ -1,8 +1,7 @@
 <div align='center'>
   
 # 👋 Hello! I'm Aayush
-A founder who's spent their entire life on Apple platforms.  
-Currently making OSS tools for Linux machines.
+Tinkerer who loves free as in freedom software.
 
 </div>
 
