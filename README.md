@@ -1,7 +1,8 @@
 <div align='center'>
   
 # 👋 Hello! I'm Aayush
- I love programming and making things, I write swift sometimes.
+A founder who's spent their entire life on Apple platforms.  
+Currently making OSS tools for Linux machines.
 
 </div>
 
