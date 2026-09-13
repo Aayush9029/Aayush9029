@@ -1,13 +1,12 @@
 <div align='center'>
   
-# 👋 Hello! I'm Aayush
-Tinkerer who loves free as in freedom software.
+# 👋 hi im aayush
+sharing solutions to problems i've encountered
 
 </div>
 
-### Things I love right now
-
 <p align="center">
+  </br>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=arch,swift,git,ts,py,bash" alt="Skills icon set">
   </a>
