@@ -1,7 +1,7 @@
 <div align='center'>
   
 # 👋 hi im aayush
-sharing solutions to problems i've encountered
+this is where i share solutions to problems i’ve encountered
 
 </div>
 
